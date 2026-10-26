@@ -1,0 +1,6 @@
+id: pandageyserac
+name: PandaGeyserAC
+main: me.TreeOfSelf.pandageyserac.PandaGeyserAC
+api: 2.11.0
+version: 0.1.0
+authors: [TreeOfSelf]
